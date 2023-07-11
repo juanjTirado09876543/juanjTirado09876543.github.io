@@ -1,0 +1,42 @@
+img {
+	width: 250px;
+	height: 250px;
+
+}
+
+
+
+body{background-color: black;
+color: white;}
+
+
+
+.Cars {
+	width: 1000px;
+	height: 500px;
+}
+
+.Corvette {
+	width: 1000px;
+	height: 500 px;
+}
+
+.Ferrari {
+	width: 1000px;
+	height: 1000 px;
+}
+
+.Porsche {
+	width: 1000px;
+	height: 500px;
+}
+
+.Ford {
+	width:1000px;
+	height:500px;
+}
+
+.McLaren {
+	width: 1000px;
+	height: 500px;
+}
